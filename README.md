@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm **ALI TAMTAM**</h1> 
+<h1 align="center">Hi 👋, I'm ALI TAMTAM</h1> 
 <h3 align="center">🚀 Full Stack Web Developer | 🛠️ Java Spring Boot | ⚡ Angular | ⚡ React | 🔥 Node.js</h3>
 
 <p align="center">
